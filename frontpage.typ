@@ -62,7 +62,7 @@
   
   set align(center)
   grid(
-    columns: (1fr, 1fr, 1fr),
+    columns: (2fr, 0fr, 1fr),
     [
       #set align(left)
       #set par(justify: false)
