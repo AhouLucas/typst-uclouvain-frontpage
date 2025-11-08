@@ -38,3 +38,7 @@ I made this template for Typst reports for students of **Université Catholique 
 ## Further customization
 
 You can of course, for example, change the fonts and the page numbering pattern if you are not a fan. When you do, either do your changes directly in the `frontpage.typ` file or if you prefer doing it in your `main.typ` then you should make any change after the frontpage configuration, as they would overwritten otherwise.
+
+## Preview
+
+<img src="preview/main-1.png" width="800">
